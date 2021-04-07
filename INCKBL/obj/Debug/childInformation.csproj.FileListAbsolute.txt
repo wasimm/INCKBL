@@ -1,0 +1,14 @@
+C:\Users\wasim.abbas\source\repos\childInformation\obj\Debug\childInformation.viewForms.resources
+C:\Users\wasim.abbas\source\repos\childInformation\obj\Debug\childInformation.Properties.Resources.resources
+C:\Users\wasim.abbas\source\repos\childInformation\obj\Debug\childInformation.csproj.GenerateResource.cache
+C:\Users\wasim.abbas\source\repos\childInformation\obj\Debug\childInformation.csproj.CoreCompileInputs.cache
+C:\Users\wasim.abbas\source\repos\childInformation\obj\Debug\childInformation.Form1.resources
+C:\Users\wasim.abbas\source\repos\childInformation\obj\Debug\childInformation.csprojAssemblyReference.cache
+C:\Users\wasim.abbas\source\repos\childInformation\bin\Debug\childInformation.exe.config
+C:\Users\wasim.abbas\source\repos\childInformation\bin\Debug\childInformation.exe
+C:\Users\wasim.abbas\source\repos\childInformation\bin\Debug\childInformation.pdb
+C:\Users\wasim.abbas\source\repos\childInformation\bin\Debug\System.Data.SQLite.dll
+C:\Users\wasim.abbas\source\repos\childInformation\bin\Debug\System.Data.SQLite.xml
+C:\Users\wasim.abbas\source\repos\childInformation\obj\Debug\childInformation.csproj.CopyComplete
+C:\Users\wasim.abbas\source\repos\childInformation\obj\Debug\childInformation.exe
+C:\Users\wasim.abbas\source\repos\childInformation\obj\Debug\childInformation.pdb
